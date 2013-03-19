@@ -1,3 +1,4 @@
 Hello this is my first training of git
 Thanks for the training
 one more line after initial commit
+one more line after initial modify for diff
