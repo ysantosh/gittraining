@@ -1,0 +1,2 @@
+Hello this is my first training of git
+Thanks for the training
