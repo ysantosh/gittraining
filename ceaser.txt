@@ -7,3 +7,4 @@ ne more line after adding file to get git diff --staged command
 new brnach coomit
 added contenct after featurei2 and using master branch
 adding content in feature2 branch and in feature2
+adding content in feature2 branch and in feature4 in feature4
