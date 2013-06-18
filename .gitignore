@@ -1,1 +1,12 @@
 /build
+.DS_Store
+Ypkgs/
+bash/
+git2/
+landslide/
+mypy/
+nodejs/
+perltraining/
+poetry-teacher/
+poetry/
+yaml/
